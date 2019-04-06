@@ -10,11 +10,10 @@ Create a test
 
 ## **测试代码**
 
-'''
-#include<iostream>
-int main()
-{
-        std::cout << "HelloWorld\n" << endl;
-        return 0;
-}
-'''
+> #include<iostream>
+> int main()
+> {
+>        std::cout << "HelloWorld\n" << endl;
+>        return 0;
+> }
+
