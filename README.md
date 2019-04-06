@@ -9,11 +9,14 @@ Create a test
 |Lucy|Java|18|  
 
 ## **测试代码**
+```
+#include<iostream>  
+int main()  
+{  
+      std::cout << "HelloWorld\n" << endl;  
+      return 0;  
+}  
+```
+## **测试单行文本**
 
-> #include<iostream>  
-> int main()  
-> {  
->        std::cout << "HelloWorld\n" << endl;  
->        return 0;  
-> }  
-
+    你好
